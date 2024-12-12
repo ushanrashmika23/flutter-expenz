@@ -1,0 +1,271 @@
+{
+    "expenses": [
+        {
+            "label": "Housing",
+            "icon": "home",
+            "color": "#FF6347"
+        },
+        {
+            "label": "Utilities",
+            "icon": "settings_ethernet",
+            "color": "#87CEEB"
+        },
+        {
+            "label": "Transportation",
+            "icon": "directions_car",
+            "color": "#32CD32"
+        },
+        {
+            "label": "Groceries",
+            "icon": "local_grocery_store",
+            "color": "#FFD700"
+        },
+        {
+            "label": "Dining Out",
+            "icon": "restaurant",
+            "color": "#FF4500"
+        },
+        {
+            "label": "Health",
+            "icon": "local_hospital",
+            "color": "#32CD32"
+        },
+        {
+            "label": "Education",
+            "icon": "school",
+            "color": "#4169E1"
+        },
+        {
+            "label": "Entertainment",
+            "icon": "theaters",
+            "color": "#FF69B4"
+        },
+        {
+            "label": "Insurance",
+            "icon": "insurance",
+            "color": "#8B0000"
+        },
+        {
+            "label": "Debt Payments",
+            "icon": "credit_card",
+            "color": "#B22222"
+        },
+        {
+            "label": "Clothing",
+            "icon": "checkroom",
+            "color": "#FF1493"
+        },
+        {
+            "label": "Personal Care",
+            "icon": "spa",
+            "color": "#D2691E"
+        },
+        {
+            "label": "Savings/Investments",
+            "icon": "attach_money",
+            "color": "#FFD700"
+        },
+        {
+            "label": "Donations",
+            "icon": "heart",
+            "color": "#FF6347"
+        },
+        {
+            "label": "Miscellaneous",
+            "icon": "miscellaneous_services",
+            "color": "#808080"
+        },
+        {
+            "label": "Subscriptions",
+            "icon": "subscriptions",
+            "color": "#A9A9A9"
+        },
+        {
+            "label": "Travel",
+            "icon": "flight_takeoff",
+            "color": "#87CEEB"
+        },
+        {
+            "label": "Childcare",
+            "icon": "child_care",
+            "color": "#FFB6C1"
+        },
+        {
+            "label": "Elderly Care",
+            "icon": "elderly",
+            "color": "#DAA520"
+        },
+        {
+            "label": "Technology",
+            "icon": "devices",
+            "color": "#A9A9A9"
+        },
+        {
+            "label": "Events",
+            "icon": "event",
+            "color": "#FFD700"
+        },
+        {
+            "label": "Fines and Penalties",
+            "icon": "warning",
+            "color": "#B22222"
+        },
+        {
+            "label": "Legal Fees",
+            "icon": "gavel",
+            "color": "#8B0000"
+        },
+        {
+            "label": "Professional Development",
+            "icon": "school",
+            "color": "#4169E1"
+        },
+        {
+            "label": "Loans",
+            "icon": "loan",
+            "color": "#B22222"
+        },
+        {
+            "label": "Taxes",
+            "icon": "account_balance",
+            "color": "#8B0000"
+        },
+        {
+            "label": "Home Improvement",
+            "icon": "home_repair_service",
+            "color": "#A52A2A"
+        },
+        {
+            "label": "Maintenance",
+            "icon": "build",
+            "color": "#D2691E"
+        },
+        {
+            "label": "Subscriptions for Kids",
+            "icon": "child_friendly",
+            "color": "#FFB6C1"
+        },
+        {
+            "label": "Unexpected Expenses",
+            "icon": "error",
+            "color": "#DC143C"
+        }
+    ],
+    "incomes": [
+        {
+            "label": "Salary",
+            "icon": "account_balance_wallet",
+            "color": "#32CD32"
+        },
+        {
+            "label": "Business",
+            "icon": "business",
+            "color": "#228B22"
+        },
+        {
+            "label": "Investments",
+            "icon": "trending_up",
+            "color": "#FFD700"
+        },
+        {
+            "label": "Government Benefits",
+            "icon": "account_balance",
+            "color": "#4682B4"
+        },
+        {
+            "label": "Pension",
+            "icon": "pension",
+            "color": "#D2691E"
+        },
+        {
+            "label": "Gifts",
+            "icon": "gift",
+            "color": "#FF6347"
+        },
+        {
+            "label": "Side Hustles",
+            "icon": "work",
+            "color": "#32CD32"
+        },
+        {
+            "label": "Royalties",
+            "icon": "copyright",
+            "color": "#8A2BE2"
+        },
+        {
+            "label": "Cashbacks",
+            "icon": "attach_money",
+            "color": "#FF4500"
+        },
+        {
+            "label": "Refunds",
+            "icon": "autorenew",
+            "color": "#00BFFF"
+        },
+        {
+            "label": "Prizes",
+            "icon": "emoji_events",
+            "color": "#FFD700"
+        },
+        {
+            "label": "Rental Income",
+            "icon": "home_work",
+            "color": "#4682B4"
+        },
+        {
+            "label": "Crowdfunding",
+            "icon": "group_add",
+            "color": "#7FFF00"
+        },
+        {
+            "label": "Inheritance",
+            "icon": "estate",
+            "color": "#A52A2A"
+        },
+        {
+            "label": "Barter/Non-Monetary",
+            "icon": "swap_horiz",
+            "color": "#A9A9A9"
+        },
+        {
+            "label": "Bonuses",
+            "icon": "star",
+            "color": "#FFD700"
+        },
+        {
+            "label": "Side Projects",
+            "icon": "work_outline",
+            "color": "#32CD32"
+        },
+        {
+            "label": "Online Earnings",
+            "icon": "laptop_mac",
+            "color": "#8A2BE2"
+        },
+        {
+            "label": "Cryptocurrency",
+            "icon": "currency_bitcoin",
+            "color": "#FFD700"
+        },
+        {
+            "label": "App Revenue",
+            "icon": "phone_iphone",
+            "color": "#1E90FF"
+        },
+        {
+            "label": "Seasonal Income",
+            "icon": "calendar_today",
+            "color": "#FF6347"
+        },
+        {
+            "label": "Partnerships",
+            "icon": "handshake",
+            "color": "#8A2BE2"
+        },
+        {
+            "label": "Grants",
+            "icon": "school",
+            "color": "#4169E1"
+        }
+    ]
+}
