@@ -1,5 +1,4 @@
 import 'package:expenz/utils/colors.dart';
-import 'package:expenz/utils/padding.dart';
 import 'package:flutter/material.dart';
 
 class SharedOnboarding extends StatelessWidget {
